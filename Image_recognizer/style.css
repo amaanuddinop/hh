@@ -1,0 +1,20 @@
+body{
+    background-color: maroon;
+    color: rgb(255, 255, 255);
+}
+.heading{
+    font-size: 22px;
+    width: 80%;
+
+}
+#camra {
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+
+}
+ .name_of_object,#result_object,#result_accuracy
+ {
+    color: rgb(55, 0, 255);
+    
+ }   
